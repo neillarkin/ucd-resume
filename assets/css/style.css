@@ -2,6 +2,10 @@
 
 /*==========================================ColoUrs*/
 
+body {
+    background-color: #525252;
+}
+
 .bg-color-name-title {
     background-color: #676767;
 }
