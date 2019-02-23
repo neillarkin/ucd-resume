@@ -250,10 +250,10 @@ footer .cv-pdf i:hover {
 
 .personal-info-item {
     margin-bottom: 20px;
-    
+
     /*occupies entirety of its horizontal space*/
     display: block;
-        
+
     /*clears both, so no other item can appear either side of it*/
     clear: both;
 
@@ -289,6 +289,25 @@ footer .cv-pdf i:hover {
     width: 60%;
 }
 
+/*--------------------------------------------Skills*/
+
+.progress {
+    position: relative;
+    height: 25px;
+}
+
+.progress-type {
+    position: absolute;
+    left: 0px;
+    font-weight: 400;
+    padding: 3px 30px 2px 10px;
+    color: #fafafa;
+    background-color: rgba(25, 25, 25, 0.2);
+}
+
+.progress-section {
+    margin: 40px 20px;
+}
 
 /*--------------------------------------------Media Queries*/
 
