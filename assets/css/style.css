@@ -2,9 +2,6 @@
 
 /*==========================================ColoUrs*/
 
-body {
-    /*background-color: #525252;*/
-}
 
 .bg-color-name-title {
     background-color: #676767;
@@ -105,9 +102,9 @@ header {
 /*Rosie image size W348 x H450*/
 
 .logo {
-    background: url("../images/blank.png");
-    /*background: url("../images/rosie.jpg");*/
-    /*background: url("../images/profile01.jpg");*/
+    /*background: url("../images/blank.png");*/
+    background: url("../images/rosie.jpg");
+    /*background: url("../images/profile06.jpg");*/
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -299,7 +296,9 @@ footer .cv-pdf i:hover {
 .progress {
     position: relative;
     height: 25px;
+    
 }
+
 
 .progress-type {
     position: absolute;
